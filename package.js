@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Cordova.depends({
-  'de.appplant.cordova.plugin.background-mode':'https://github.com/chcnetconsulting/cordova-plugin-background-mode.git@0.6.4'
+  'de.appplant.cordova.plugin.background-mode':'https://github.com/chcnetconsulting/cordova-plugin-background-mode.git#ca703a321b029e53da94963f545d378523fb6d7d'
 });
 
 Package.onUse(function(api) {
